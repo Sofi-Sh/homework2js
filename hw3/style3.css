@@ -1,0 +1,17 @@
+.users-box {
+display: flex;
+    flex-wrap: wrap;
+width: 100%;
+
+
+}
+
+.user-block div{
+width: 300px;
+}
+
+.adress-block{
+
+    width: 300px;
+
+}
